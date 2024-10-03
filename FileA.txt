@@ -1,0 +1,9 @@
+This is FileA
+
+git init
+
+git config --global user.name "David Dallaire"
+git config --global user.email "david@omegairisk.ca"
+
+
+git add .
